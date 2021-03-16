@@ -1,0 +1,11 @@
+vitis_hls.log
+
+*/solution1/.autopilot/
+*/solution1/.debug/
+*/solution1/.tcls/
+*/solution1/csim/
+*/solution1/impl/
+*/solution1/sim/
+*/solution1/syn/
+
+*/solution1/solution1.log
