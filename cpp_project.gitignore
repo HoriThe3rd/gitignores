@@ -1,0 +1,15 @@
+# This file is gitignore for software project.
+
+# Ignore these files and directories.
+lib/
+
+project/*
+!CMakeLists.txt
+!Lenna.bmp
+
+.vscode/*
+!.vscode/c_cpp_properties.json
+
+!LICENSE
+
+.DS_Store
